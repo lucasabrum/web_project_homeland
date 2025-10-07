@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav__logo {
+    max-width: 254px;
+    height: 70px;
+    margin: 34px 513px 0;
+}
