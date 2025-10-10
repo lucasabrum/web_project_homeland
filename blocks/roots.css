@@ -14,10 +14,3 @@ ul,
 ol {
   list-style-type: none;
 }
-
-.page {
-  max-width: 1280px;
-  margin: 0 auto;
-  line-height: 1.5;
-  box-sizing: border-box;
-}
