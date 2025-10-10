@@ -32,7 +32,7 @@
   height: 100%;
 }
 @media screen and (max-width: 768px) {
-  .lead__tittle {
+  .lead__title {
     max-width: 530px;
     margin: 90px auto 25px;
     font-size: 75px;
@@ -44,7 +44,7 @@
   }
 }
 @media screen and (max-width: 1024px) {
-  .lead__tittle {
+  .lead__title {
     max-width: 640px;
     margin: 90px auto 28px;
     font-size: 85px;
@@ -56,7 +56,7 @@
   }
 }
 @media screen and (max-width: 544px) {
-  .lead__tittle {
+  .lead__title {
     max-width: 370px;
     margin: 70px auto 20px;
     font-size: 57px;
@@ -68,7 +68,7 @@
   }
 }
 @media screen and (max-width: 320px) {
-  .lead__tittle {
+  .lead__title {
     max-width: 228px;
     margin: 50px auto 16px;
     font-size: 40px;

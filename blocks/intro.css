@@ -4,7 +4,7 @@
 }
 .intro__limiter {
   max-width: 830px;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
 }
 
 .intro__title {
@@ -42,7 +42,7 @@
   .intro__limiter {
     max-width: 780px;
   }
-  .intro__tittle {
+  .intro__title {
     font-size: 50px;
     line-height: 53px;
     margin: 90px 37px 50px 24px;
@@ -52,12 +52,12 @@
   .intro__limiter {
     max-width: 720px;
   }
-  .introp__tittle {
+  .intro__title {
     font-size: 45px;
     line-height: 49px;
     margin: 90px 37px 50px 24px;
   }
-  .intro__subtittle {
+  .intro__subtitle {
     max-width: 720px;
     margin: 40px 24px 58px;
   }
@@ -74,7 +74,7 @@
   .intro__limiter {
     max-width: 538px;
   }
-  .intro__tittle {
+  .intro__title {
     font-size: 37px;
     line-height: 40px;
     margin: 64px 26px 40px 26px;
