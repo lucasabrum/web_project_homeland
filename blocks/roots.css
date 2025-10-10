@@ -1,20 +1,23 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Inter', Arial, sans-serif;
-    color: white;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", Arial, sans-serif;
+  color: #ffffff;
 }
 
 body {
-    background-color: #2A2C2F;
+  background-color: #2a2c2f;
 }
 
-ul, ol {
-    list-style-type: none;
+ul,
+ol {
+  list-style-type: none;
 }
 
 .page {
-    max-width: 1280px;
-    margin: 0 auto;
+  max-width: 1280px;
+  margin: 0 auto;
+  line-height: 1.5;
+  box-sizing: border-box;
 }
