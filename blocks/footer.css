@@ -1,6 +1,6 @@
 .footer {
   max-width: fit-content;
-  margin: 92px auto 24px;
+  margin: 90px auto 24px;
 }
 .footer__copyright {
   font-family: "Inter";
@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 320px) {
   .footer {
-    margin: auto auto 24px;
+    margin: auto auto 25px;
   }
   .footer__copyright {
     font-size: 14px;
